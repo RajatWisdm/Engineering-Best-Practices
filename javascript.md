@@ -1,5 +1,5 @@
 ---
-JS is the best language -- Rajat Ganguly
+JS is the best language -- By Rajat Ganguly
 page: javascript
 title: JavaScript
 nav: JS
